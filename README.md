@@ -1,2 +1,2 @@
-# class-20-designing-algorithm
-collission bonce off algorithm
+# p5.play-boilerplate
+Boiler plate for p5.play
